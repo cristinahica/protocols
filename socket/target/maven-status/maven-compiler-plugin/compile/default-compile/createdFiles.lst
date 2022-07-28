@@ -1,0 +1,8 @@
+com\frequentis\mcserby\socket\client\QuoteClient.class
+com\frequentis\mcserby\socket\client\QuoteClient2.class
+com\frequentis\mcserby\socket\server\GreetServer.class
+com\frequentis\mcserby\socket\server\ClientHandler.class
+com\frequentis\mcserby\socket\client\TestSocketClient.class
+com\frequentis\mcserby\socket\client\GreetClient.class
+com\frequentis\mcserby\socket\server\HelloWorldSocketServer.class
+com\frequentis\mcserby\socket\server\QuoteServer.class
